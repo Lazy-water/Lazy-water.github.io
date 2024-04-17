@@ -1,0 +1,1 @@
+import{F as o}from"./rich-text-0d29e3b7.js";import{r as t,o as r,c,w as n,e as a,A as s}from"./vue-libs-eb153a24.js";import"./helper-1e979f21.js";import"./locales-2658cfbc.js";const m='<p style="color:red;">哈哈</p>',x={__name:"index",setup(p){return(_,l)=>{const e=t("demo-block");return r(),c(e,{title:"基础用法"},{default:n(()=>[a(s(o),{content:m})]),_:1})}}};export{x as default};

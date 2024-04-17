@@ -1,0 +1,1 @@
+import{F as a,d as o}from"./helper-1e979f21.js";import{o as e,c as r,w as c,g as n}from"./vue-libs-eb153a24.js";import"./locales-2658cfbc.js";const d={__name:"index",setup(s){const t=()=>{o.confirm({title:"请确认支付是否已完成"})};return(i,_)=>(e(),r(a,{onClick:t},{default:c(()=>[n("开关")]),_:1}))}};export{d as default};

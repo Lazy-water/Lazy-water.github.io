@@ -1,0 +1,1 @@
+import{C as t}from"./helper-1e979f21.js";const i=(o,n)=>{const a=typeof o=="string"?{name:o,...n}:{...o};if(typeof t.onNavigate!="function"){console.warn("使用BASE的跳转应当配置Config.onNavigate以完成跳转");return}return t.onNavigate(a)},r=()=>({navigate:i});export{r as u};

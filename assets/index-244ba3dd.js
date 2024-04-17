@@ -1,0 +1,1 @@
+import{F as e,m as t}from"./helper-1e979f21.js";import{o as a,c as s,w as r,g as c}from"./vue-libs-eb153a24.js";import"./locales-2658cfbc.js";const u={__name:"index",setup(n){const o=()=>{t.loading("111"),setTimeout(()=>t.clear(),2e3)};return(i,m)=>(a(),s(e,{onClick:o},{default:r(()=>[c("提示文案")]),_:1}))}};export{u as default};
